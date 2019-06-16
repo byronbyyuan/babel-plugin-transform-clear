@@ -1,0 +1,29 @@
+{
+  "name": "babel-plugin-transfrom-clear",
+  "version": "1.0.0",
+  "description": "babel-plugin ",
+  "main": "./lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/14138993/babel-plugin-transfrom-clear.git"
+  },
+  "keywords": [
+    "babel-plugin",
+    "webpack",
+    "debugger",
+    "alert",
+    "build"
+  ],
+  "author": "14138993",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/14138993/babel-plugin-transfrom-clear/issues"
+  },
+  "homepage": "https://github.com/14138993/babel-plugin-transfrom-clear#readme"
+}
