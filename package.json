@@ -1,5 +1,5 @@
 {
-  "name": "babel-plugin-transfrom-clear",
+  "name": "babel-plugin-transform-clear",
   "version": "1.0.0",
   "description": "babel-plugin ",
   "main": "./lib/index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/14138993/babel-plugin-transfrom-clear.git"
+    "url": "git+https://github.com/14138993/babel-plugin-transform-clear.git"
   },
   "keywords": [
     "babel-plugin",
@@ -23,7 +23,7 @@
   "author": "14138993",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/14138993/babel-plugin-transfrom-clear/issues"
+    "url": "https://github.com/14138993/babel-plugin-transform-clear/issues"
   },
-  "homepage": "https://github.com/14138993/babel-plugin-transfrom-clear#readme"
+  "homepage": "https://github.com/14138993/babel-plugin-transform-clear#readme"
 }
