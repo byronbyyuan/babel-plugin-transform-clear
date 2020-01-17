@@ -1,3 +1,9 @@
+<!--
+ * @Author: 14138993
+ * @Date: 2019-06-16 17:43:54
+ * @LastEditTime : 2020-01-17 10:10:29
+ * @FilePath: \babel-plugin-transfrom-clear\README.MD
+ -->
 
 ## babel-plugin-transform-clear
   #### 一个很简单的但实用的babel清除插件：
@@ -7,8 +13,9 @@
   ```
 ### 使用方式
   ```
+  // 参数可不传 默认为true 将debugger和alert都删除 传递false 则不处理
   {
   "presets": [],
-  "plugins": ["transform-clear"]
+  "plugins": ["transform-clear"]  // [["transform-clear", {Debugger: false, Alert: false}]]
 }
   ```
